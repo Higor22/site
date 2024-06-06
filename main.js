@@ -107,11 +107,11 @@ resultado”);
 
 const perguntas = [
 {
-enunciado: “Pergunta 1”,
-alternativas: [“Alternativa 1”, “Alternativa 2”],
+enunciado: “Qual a melhor msc do paiva?”,
+alternativas: [“Givenchy”, “Fala na cara”],
 },
 {
-enunciado: “Pergunta 2”,
-alternativas: [“Alternativa 1”, “Alternativa 2”],
+enunciado: “Você prefere carro ou moto?”,
+alternativas: [“Carro”, “Moto”],
 },
 ];
