@@ -7,8 +7,8 @@
 }
 
 body{
-    background-color: var(--cor-fundo);
-    color: var(--cor-texto);
+    background-color: var(verde);
+    color: var(branco);
     display: flex;
     justify-content: center;
     align-items: center;
